@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TVウォッチャー</string>
+    <string name="time_format" formatted="false">%d:%d</string>
+    <string name="refresh_program">番組表更新</string>
+    <string name="tv_program_title_current">放送中(%s)</string>
+    <string name="tv_program_title_next">次番組</string>
+    <string name="tv_program_response_error">取得失敗</string>
+</resources>
