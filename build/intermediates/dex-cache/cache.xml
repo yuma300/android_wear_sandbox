@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/usr0600273/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/wearable-preview-support-79994668074496982d4e5de1f8d7465ea0ce9d65.jar"
+        jar="/Users/usr0600273/AndroidStudioProjects/MyApplication/app/libs/wearable-preview-support.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4f4678fce7b2869bee25328441563fc61037b6cc"/>
+    <item
+        dex="/Users/usr0600273/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-c3ab418aa5619a3852ddb24435ed10a9edd992eb.jar"
+        jar="/Users/usr0600273/AndroidStudioProjects/MyApplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/usr0600273/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/gson-2.2.4-3657f153b439acb3d796d3f4b395c7a48e18a2fc.jar"
+        jar="/Users/usr0600273/AndroidStudioProjects/MyApplication/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="/Users/usr0600273/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
